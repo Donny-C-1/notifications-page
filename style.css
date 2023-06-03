@@ -1,4 +1,7 @@
 * {
     box-sizing: border-box;
     margin: 0;
+
+    --fw-light: 500;
+    --fw-bold: 700;
 }
